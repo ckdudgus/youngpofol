@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/youngpofol/static/css/main.073c9b0a.css",
+    "main.js": "/youngpofol/static/js/main.79923b43.js",
+    "static/js/787.0366a39d.chunk.js": "/youngpofol/static/js/787.0366a39d.chunk.js",
+    "static/media/logo.svg": "/youngpofol/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/youngpofol/index.html",
+    "main.073c9b0a.css.map": "/youngpofol/static/css/main.073c9b0a.css.map",
+    "main.79923b43.js.map": "/youngpofol/static/js/main.79923b43.js.map",
+    "787.0366a39d.chunk.js.map": "/youngpofol/static/js/787.0366a39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79923b43.js"
+  ]
+}
